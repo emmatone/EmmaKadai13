@@ -12,5 +12,6 @@
 <li>Label</li>
 <li>Identifiable</li>
 <li>ObservableObject/ObservedObject</li>
+<li>チェックマーク非表示の処理はアイコンを""でよかったのか疑問。</lu>
 </ul>
 
