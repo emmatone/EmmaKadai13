@@ -5,7 +5,7 @@
 <li>フルーツにはチェックマークが付いているものと付いていないものがある</li>
 </ul>
 <img src= "Kadai13.png" width="300" alt="課題13" />
-## Memo
+<h2>Memo</h2>
 <ul>
 <li>SwiftUI</li>
 <li>List</li>
