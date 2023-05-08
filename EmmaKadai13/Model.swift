@@ -14,7 +14,8 @@ struct Fruit: Identifiable {
 }
 
 class Fruits: ObservableObject {
-    @Published var fruitsData = [
+    //@Published var fruitsData = [
+    var fruitsData = [
         Fruit(name: "りんご", isChecked: false),
         Fruit(name: "みかん", isChecked: true),
         Fruit(name: "バナナ", isChecked: false),

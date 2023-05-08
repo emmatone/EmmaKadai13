@@ -16,7 +16,7 @@ struct ContentView: View {
                 .padding(.bottom, 15)
                 .frame(maxWidth: .infinity)
                 .background(.mint.opacity(0.5))
-            
+
             List(fruits.fruitsData) { fruit in
                 Label(fruit.name, systemImage: fruit.isChecked ?  "checkmark" : "")
             }
