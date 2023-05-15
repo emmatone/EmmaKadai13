@@ -12,6 +12,7 @@
 <li>Label</li>
 <li>Identifiable</li>
 <li>ObservableObject/ObservedObject</li>
-<li>チェックマーク非表示の処理はアイコンを""でよかったのか疑問。</lu>
+<li><del>チェックマーク非表示の処理はアイコンを""でよかったのか疑問。</del></li>
+<li>チェックマークアイコンに.hidden()を使用する形式とした。<li>
 </ul>
 
