@@ -13,6 +13,7 @@
 <li>Identifiable</li>
 <li>ObservableObject/ObservedObject</li>
 <li><del>チェックマーク非表示の処理はアイコンを""でよかったのか疑問。</del></li>
-<li>チェックマークアイコンに.hidden()を使用する形式とした。<li>
+<li>Label(title: { タイトルView }, icon: { アイコンView })に変更してicon部分を編集しやすくした。</li>
+<li>チェックマークアイコンに.hidden()を使用する形式とした。</li>
 </ul>
 
