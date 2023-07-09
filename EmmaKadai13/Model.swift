@@ -19,6 +19,5 @@ class Fruits: ObservableObject {
         Fruit(name: "みかん", isChecked: true),
         Fruit(name: "バナナ", isChecked: false),
         Fruit(name: "パイナップル", isChecked: true)
-
     ]
 }
